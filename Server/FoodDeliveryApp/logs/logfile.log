@@ -1,0 +1,50 @@
+[INFO ] 02-05-2022 09:54:46.121 PM [http-nio-8080-exec-2] UserController - Customer Rakhi logged in
+[INFO ] 02-05-2022 09:55:47.235 PM [http-nio-8080-exec-3] UserController - Rakhi Logged out successfully
+[INFO ] 03-05-2022 10:33:39.003 AM [http-nio-8080-exec-5] UserController - Customer Rakhi logged in
+[INFO ] 03-05-2022 11:37:46.370 AM [http-nio-8080-exec-2] OrderController - Customer RakhiPlaced Order
+[INFO ] 03-05-2022 12:01:42.529 PM [http-nio-8080-exec-1] UserController - Rakhi Logged out successfully
+[INFO ] 03-05-2022 12:18:11.048 PM [http-nio-8080-exec-1] UserController - Customer Rakhi logged in
+[INFO ] 03-05-2022 12:19:55.702 PM [http-nio-8080-exec-2] UserController - Rakhi Logged out successfully
+[ERROR] 03-05-2022 12:20:06.148 PM [http-nio-8080-exec-2] UserController - customerRakhiLogged in with wrong crediantials
+[ERROR] 03-05-2022 12:20:19.321 PM [http-nio-8080-exec-3] UserController - customerRakhiLogged in with wrong crediantials
+[ERROR] 03-05-2022 12:20:20.278 PM [http-nio-8080-exec-5] UserController - customerRakhiLogged in with wrong crediantials
+[INFO ] 03-05-2022 01:07:54.100 PM [http-nio-8080-exec-4] UserController - Customer Rishikesh Mali logged in
+[INFO ] 03-05-2022 01:11:04.304 PM [http-nio-8080-exec-6] UserController - Rishikesh Mali Logged out successfully
+[INFO ] 03-05-2022 01:50:58.751 PM [http-nio-8080-exec-2] UserController - Customer Rakhi logged in
+[INFO ] 03-05-2022 02:37:39.816 PM [http-nio-8080-exec-9] UserController - Customer rakhi logged in
+[INFO ] 03-05-2022 02:38:47.412 PM [http-nio-8080-exec-2] UserController - rakhi Logged out successfully
+[INFO ] 03-05-2022 02:39:38.536 PM [http-nio-8080-exec-3] UserController - Customer rakhi logged in
+[INFO ] 03-05-2022 02:41:36.375 PM [http-nio-8080-exec-4] UserController - rakhi Logged out successfully
+[INFO ] 03-05-2022 02:50:06.012 PM [http-nio-8080-exec-3] UserController - Customer rakhi logged in
+[INFO ] 03-05-2022 02:51:58.234 PM [http-nio-8080-exec-9] OrderController - Customer rakhiPlaced Order
+[INFO ] 03-05-2022 02:52:44.814 PM [http-nio-8080-exec-9] UserController - rakhi Logged out successfully
+[INFO ] 03-05-2022 02:54:42.719 PM [http-nio-8080-exec-7] UserController - Customer rakhi logged in
+[INFO ] 03-05-2022 02:56:56.611 PM [http-nio-8080-exec-4] OrderController - Customer rakhiPlaced Order
+[INFO ] 03-05-2022 02:57:06.172 PM [http-nio-8080-exec-5] UserController - rakhi Logged out successfully
+[ERROR] 03-05-2022 02:59:14.467 PM [http-nio-8080-exec-6] UserController - customerrakhiLogged in with wrong crediantials
+[INFO ] 03-05-2022 02:59:24.293 PM [http-nio-8080-exec-3] UserController - Customer rakhi logged in
+[ERROR] 04-05-2022 10:02:28.373 AM [http-nio-8080-exec-1] UserController - customerrakhiLogged in with wrong crediantials
+[INFO ] 04-05-2022 10:02:36.509 AM [http-nio-8080-exec-3] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 10:04:01.886 AM [http-nio-8080-exec-1] OrderController - Customer rakhiPlaced Order
+[INFO ] 04-05-2022 10:07:17.887 AM [http-nio-8080-exec-10] UserController - rakhi Logged out successfully
+[ERROR] 04-05-2022 10:15:08.013 AM [http-nio-8080-exec-5] UserController - customerrakhiLogged in with wrong crediantials
+[INFO ] 04-05-2022 10:15:14.846 AM [http-nio-8080-exec-8] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 10:15:52.871 AM [http-nio-8080-exec-10] UserController - rakhi Logged out successfully
+[INFO ] 04-05-2022 02:34:14.078 PM [http-nio-8080-exec-9] UserController - Customer rishikesh logged in
+[INFO ] 04-05-2022 02:35:14.899 PM [http-nio-8080-exec-5] OrderController - Customer rishikeshPlaced Order
+[INFO ] 04-05-2022 02:35:30.471 PM [http-nio-8080-exec-9] UserController - rishikesh Logged out successfully
+[ERROR] 04-05-2022 02:39:44.290 PM [http-nio-8080-exec-7] UserController - customerrakhiLogged in with wrong crediantials
+[ERROR] 04-05-2022 02:39:47.107 PM [http-nio-8080-exec-4] UserController - customerrakhiLogged in with wrong crediantials
+[ERROR] 04-05-2022 02:39:51.149 PM [http-nio-8080-exec-6] UserController - customerrakhiLogged in with wrong crediantials
+[INFO ] 04-05-2022 03:05:04.078 PM [http-nio-8080-exec-10] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 03:06:00.501 PM [http-nio-8080-exec-2] UserController - rakhi Logged out successfully
+[INFO ] 04-05-2022 03:20:56.206 PM [http-nio-8080-exec-5] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 03:22:15.819 PM [http-nio-8080-exec-6] OrderController - Customer rakhiPlaced Order
+[INFO ] 04-05-2022 06:29:54.617 PM [http-nio-8080-exec-6] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 06:30:33.547 PM [http-nio-8080-exec-9] OrderController - Customer rakhiPlaced Order
+[INFO ] 04-05-2022 06:30:49.143 PM [http-nio-8080-exec-2] UserController - rakhi Logged out successfully
+[ERROR] 04-05-2022 06:33:29.584 PM [http-nio-8080-exec-8] UserController - customerrakhiLogged in with wrong crediantials
+[ERROR] 04-05-2022 06:33:32.458 PM [http-nio-8080-exec-4] UserController - customerrakhiLogged in with wrong crediantials
+[ERROR] 04-05-2022 06:33:35.474 PM [http-nio-8080-exec-1] UserController - customerrakhiLogged in with wrong crediantials
+[INFO ] 04-05-2022 06:34:41.799 PM [http-nio-8080-exec-1] UserController - Customer rakhi logged in
+[INFO ] 04-05-2022 06:34:42.484 PM [http-nio-8080-exec-10] UserController - Customer rakhi logged in
